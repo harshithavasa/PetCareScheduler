@@ -170,7 +170,7 @@ Input/Output format: yyyy-MM-dd HH:mm
 
 Comparisons use LocalDateTime.now() semantics.
 
-Example Session
+================================================================ Example Session ================================================================================================
 Menu
 
 === Pet Care Scheduler Menu ===
@@ -218,7 +218,7 @@ Enter appointment date and time (yyyy-MM-dd HH:mm): 2025-09-15 10:30
 Enter notes (optional): Annual checkup
 
 ✓ Appointment scheduled successfully!
-
+================================================================================================================================================================================
 Troubleshooting
 Package name mismatch
 
