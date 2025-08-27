@@ -1,6 +1,5 @@
-Pet Care Scheduler
-A Java console application to register pets, schedule and manage appointments, 
-persist data to files, display records, and generate simple reports. Built with clean OOP design, encapsulation, validation, and Java File I/O.
+====== Pet Care Scheduler ======
+A Java console application to register pets, schedule and manage appointments, persist data to files, display records, and generate simple reports. Built with clean OOP design, encapsulation, validation, and Java File I/O.
 
 Features
 Register pets with a unique ID, validated age, and automatic registration date.
@@ -170,7 +169,7 @@ Input/Output format: yyyy-MM-dd HH:mm
 
 Comparisons use LocalDateTime.now() semantics.
 
-================================================================ Example Session ================================================================================================
+====== Example Session ======
 Menu
 
 === Pet Care Scheduler Menu ===
@@ -218,8 +217,8 @@ Enter appointment date and time (yyyy-MM-dd HH:mm): 2025-09-15 10:30
 Enter notes (optional): Annual checkup
 
 ✓ Appointment scheduled successfully!
-================================================================================================================================================================================
-Troubleshooting
+
+====== Troubleshooting ======
 Package name mismatch
 
 Error: The declared package "" does not match the expected package "PetCareScheduler"
